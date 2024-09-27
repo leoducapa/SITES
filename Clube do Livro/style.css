@@ -1,0 +1,88 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0;
+    padding: 0;
+
+}
+header{
+    background-color: #648769;
+    margin: 0px;
+    display: flex;
+    justify-content: space-between;
+    padding: 50px;
+}
+.img{
+    top: auto;
+    width: 700px;
+    height: 400px;
+    
+}
+.cl{
+color: rgb(255, 255, 255);
+font-size: 100px;
+padding: 25px 25px 25px 25px;
+}
+.exp{
+    text-align: center;
+    color: #648769;
+    font-size: 42px;
+    margin: 95px;
+}
+.conteiner{
+    display: flex;
+    justify-content: space-between;
+    padding: 100px;
+    margin: 10px;
+    
+}
+.imgB{
+    width: 210px;
+}
+.imgC{
+    width: 210px;
+}
+.imgL{
+    width: 210px;
+}
+.bloco{
+    margin: 8%;
+    flex-direction: column;
+    text-align: center;
+    word-break: break-all;
+    width: 1100px;
+}
+.caixa{
+    margin: 8%;
+    flex-direction: column;
+    text-align: center;
+    word-break: break-all;
+    width: 1100px;
+}
+.livro{
+    margin: 8%;
+    flex-direction: column;
+    text-align: center;
+    word-break: break-all;
+    width: 1100px;
+}
+h4{
+    font-size: 25px;
+}
+p{
+    text-align: center;
+    font-size: 14px;
+}
+.assine{
+    color: aliceblue;
+    font-size: 75px;
+    text-align: center;
+    
+}
+footer{
+    background-color: #648769;
+    margin: 0px;
+    height: 500px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
